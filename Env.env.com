@@ -1,0 +1,3 @@
+USER_EMAIL=somab63683@lewenbo.com
+USER_PASSWORD=GoodLuck777
+HEADLESS=true
